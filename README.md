@@ -68,7 +68,6 @@ Aquí algunos de tus proyectos (puedes editarlos si quieres destacar otros):
 
 <p align="center">
   <a href="https://www.linkedin.com/in/johan-choez-suarez-255563381/">LinkedIn</a> •
-  <a href="mailto:jhonsuarez1612@gmail.com">Email</a>
 </p>
 
 ---
