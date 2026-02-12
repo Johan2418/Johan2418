@@ -1,4 +1,4 @@
-<!-- 👋 GIF de saludo -->
+
 <h1 align="center">
   Hola :D, soy <strong>Johan</strong>
 </h1>
@@ -24,8 +24,8 @@
 ## 🔥 Estadísticas 📊
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Johan2418&show_icons=true&theme=radical" />
-  <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Johan2418&layout=compact&theme=radical" />
+  <img height="160px" src="https://github-readme-stats-two-iota-96.vercel.app/api?username=Johan2418&show_icons=true&theme=radical" />
+  <img height="160px" src="https://github-readme-stats-two-iota-96.vercel.app/api/top-langs/?username=Johan2418&layout=compact&theme=radical" />
 </p>
 
 
