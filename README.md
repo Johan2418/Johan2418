@@ -1,9 +1,9 @@
 <!-- 👋 GIF de saludo -->
 <h1 align="center">
-  Hola 👋, soy <strong>Johan</strong>
+  Hola :D, soy <strong>Johan</strong>
 </h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Hi!">
+  <img src="https://i.redd.it/3ajp00on55r61.gif" width="120px" alt="Hi!">
 </p>
 
 <p align="center">
@@ -24,11 +24,10 @@
 ## 🔥 Estadísticas 📊
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Johan2418&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan2418&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Johan2418&show_icons=true&theme=radical" />
+  <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Johan2418&layout=compact&theme=radical" />
 </p>
 
-> Estas tarjetas muestran tus estadísticas principales en GitHub, como frecuencia de commits y lenguajes usados. :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -45,10 +44,9 @@
 Aquí algunos de tus proyectos (puedes editarlos si quieres destacar otros):
 
 - 🔹 **Casa-abierta-Cub-ia-Juego-** – Juego interactivo con JavaScript.  
-- 🔹 **Proyecto-Grupo-6** – Sitio web básico con HTML/CSS.  
+- 🔹 **interfaz-humano-computador** – Aplicación web educativa la cual brinda además de la creación de lecciones y clases, un uso de modelos de realidad aumentada 2.5D y 3D.
+- 🔹 **5toA_Proyecto_Autonomo_Apps_Ser_web** – Aplicación web centrada en el manejo de varias tecnologías para la construcción de un Backend elaborado.  
 - 🔹 Otros proyectos con Python, TypeScript y Java que muestran variedad técnica.
-
-*(Puedes añadir o cambiar proyectos según lo que quieras resaltar.)*
 
 ---
 
@@ -69,13 +67,12 @@ Aquí algunos de tus proyectos (puedes editarlos si quieres destacar otros):
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/Johan2418">LinkedIn</a> •
-  <a href="https://twitter.com/Johan2418">Twitter</a> •
-  <a href="mailto:tuemail@correo.com">Email</a>
+  <a href="https://www.linkedin.com/in/johan-choez-suarez-255563381/">LinkedIn</a> •
+  <a href="mailto:jhonsuarez1612@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="right">
-  Hecho con ❤️ y ❤️ por escribir código.
+  Siempre dispuesto a aprender y adaptarse en todo lo que venga.
 </p>
